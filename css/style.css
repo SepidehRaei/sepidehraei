@@ -147,6 +147,7 @@ main {
 
 /* Numbered section headings (§ 01 …) */
 .section-head {
+  scroll-margin-top: 84px;
   display: flex;
   align-items: baseline;
   gap: 14px;
